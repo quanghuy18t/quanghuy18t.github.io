@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+.aleft{
+	float: left;
+}
+.left input {
+	border: 1px solid #44A8C7;
+	border-radius: 10px;
+	height: 35px;
+	width: 200px;
+}
+.left textarea{
+	border-radius: 10px;
+	border: 1px solid #44A8C7;
+}
+.fi{
+	padding-top: 10px;
+	line-height: 35px;
+}
+.fi label{
+	font-weight: bold;
+}
+#lien{
+	font-size: 20px;
+	padding-bottom: 10px;
+	border-radius: 0px;
+	border-bottom: 2px solid transparent;
+	display: block;
+	bottom: -1px;
+	border-color: #44A8C7;
+}
+
+#nx input{
+	width: 450px;
+}
+.left{
+	max-width: 2200px;
+	float: left;
+	margin-left: 50px;
+	display: inline;
+}
+.right{
+	float: right;
+	padding-top: 120px;
+	margin-right: 50px;
+}
+#se{
+	width: 70px;
+	background-color: #00ABC5;
+	color: white;
+	font-weight: bold;
+}
+

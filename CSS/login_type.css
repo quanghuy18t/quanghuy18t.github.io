@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+.login-box{
+	width: 360px; height: 350px;
+	margin-top: 50px;
+	margin-left: 300px;
+	border: 3px solid #00abc5;
+	border-radius: 10px;
+}
+.signup-box a{
+	color: #49c1a2;
+}
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+h4{text-align: center;}
+form{
+	width: 300px;
+	margin-left: 20px;
+}
+form label{
+	display: flex;
+	margin-top: 20px;
+	font-size: 16px;
+}
+form input{
+	width: 320px;
+	padding: 7px;
+	border: 1px solid gray;
+	border-radius: 6px;
+	outline: none;
+}
+button{
+	width: 320px; height: 37px;
+	margin-top: 20px;
+	border-radius: 0px;
+	border: none;
+	background-color: #49c1a2;
+	color: white;
+	font-size: 16px;
+}
+p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 15px;
+}
+.para-2{
+	text-align: center;
+	margin-top: -10px;
+	width: 320px;
+	margin-left: 17px;
+}
+.para-2 a{
+	color: #49c1a2;
+}

@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+table tr td{
+	border-spacing: 10px;
+	border: 2px solid #BCC6D2;
+	border-radius: 0px 0px;
+}
+table tr th{
+	border: 2px solid #BCC6D2;
+	border-radius: 0px 0px;
+}
+img{
+	border-radius: 0px 0px;
+}
+.table{
+	border-collapse:collapse;
+}
+.size{
+	width: 70px;
+	height: 70px;
+}
+.size_1{
+	width: 30px;
+	height: 30px;
+}
+.col{
+	width: 700px;
+	height: 400px;
+	margin-left: 300px;
+}
+.chot{
+	background-color: red;
+	width: 500px; margin: 10px;
+	height: 50px;
+	float: left;
+	padding-top: 12px;
+	font-size: 20px; color: white;
+	border-radius: 2px 2px;
+	margin-left: 100px;
+}
+.chot a{
+	text-decoration: none;
+}

@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.gioi{
+    margin: 0px 20px;
+    font-size: 18px;
+    line-height: 25px;
+}
+.gioi img{
+	width: 200px;
+	height: 90px;
+	margin-right: 100px;
+}
